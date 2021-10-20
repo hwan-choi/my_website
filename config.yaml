@@ -38,12 +38,12 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
+        emoji: 
         subtitle: I have created this website as part of the Data Analytics class at LBS
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/moi.jpg
 
     article:
         math: false
