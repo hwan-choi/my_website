@@ -1,8 +1,8 @@
-baseurl: https://example.com
+baseurl: https://johnny-choi-portfolio.netlify.app
 languageCode: en-us
 theme: "hugo-theme-stack"
 paginate: 5
-title: Example Site
+title: Portfolio Website for Johnny Choi
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -39,7 +39,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: I have created this website as part of the Data Analytics class at LBS
         avatar:
             enabled: true
             local: true
